@@ -22,8 +22,9 @@
             "text": {
               "value": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>\r\n",
               "format": "rich_text",
-              "processed": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor "
+              "processed": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
             },
+          }
         },
         {
           "entity": {
